@@ -11,4 +11,4 @@ public class Division {
     else{
         System.out.println("given number is not divisible by 7");
     }
-    }
+    }}
